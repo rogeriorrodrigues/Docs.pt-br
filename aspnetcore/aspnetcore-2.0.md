@@ -28,7 +28,7 @@ Páginas do Razor é um novo recurso do ASP.NET Core MVC que torna a codificaç�
 Para obter mais informações, consulte a introdução e o tutorial:
 
 * [Introdução a Páginas do Razor](xref:mvc/razor-pages/index)
-* [Introdução a Páginas do Razor](xref:tutorials/razor-pages/razor-pages-start)
+* [Iniciando com Páginas do Razor](xref:tutorials/razor-pages/razor-pages-start)
 
 ## <a name="aspnet-core-metapackage"></a>Metapacote do ASP.NET Core
 

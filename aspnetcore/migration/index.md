@@ -23,7 +23,7 @@ ms.lasthandoff: 09/20/2017
 *   [Migrando do ASP.NET MVC para o ASP.NET Core MVC](xref:migration/mvc)
 *   [Migrando a configuração](xref:migration/configuration)
 *   [Migrando autenticação e identidade](xref:migration/identity)
-*   [Migrando da API Web ASP.NET](xref:migration/webapi)
+*   [Migrando do ASP.NET WEB API](xref:migration/webapi)
 *   [Migrando módulos HTTP para Middleware](xref:migration/http-modules)
 
 ## <a name="aspnet-to-aspnet-core-20xrefmigrationproper-to-2xindex"></a>[ASP.NET para ASP.NET Core 2.0](xref:migration/proper-to-2x/index)
